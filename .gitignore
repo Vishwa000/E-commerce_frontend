@@ -1,0 +1,35 @@
+# Ignore Next.js build output
+.next/
+
+# Ignore serverless function directory
+# (if you are using Vercel or similar platforms)
+# api/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore environment files
+.env*
+
+# Ignore build artifacts
+out/
+
+# Ignore static directory in development
+# (uncomment if you are using `next export`)
+# static/
+
+# Ignore build cache
+.cache/
+
+# Ignore yarn error logs
+.yarn/cache/
+.yarn/unplugged/
+
+# Ignore .DS_Store files
+.DS_Store
+
+# Ignore logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
