@@ -1,8 +1,8 @@
 export const products = [
   {
     id: '1',
-    name: 'T-Shirt Summer Vibes',
-    price: 119.99,
+    // name: 'T-Shirt Summer Vibes',
+    // price: 119.99,
     discount: 30,
     quantityAvailable: 2,
     category: 'T-shirt',
@@ -61,8 +61,8 @@ export const products = [
   },
   {
     id: '2',
-    name: 'T-Shirt Summer Vibes',
-    price: 119.99,
+    // name: 'T-Shirt Summer Vibes',
+    // price: 119.99,
     quantityAvailable: 2,
     category: 'T-shirt',
     currentPrice: 89.99,
@@ -120,8 +120,8 @@ export const products = [
   },
   {
     id: '3',
-    name: 'T-Shirt Summer Vibes',
-    price: 119.99,
+    // name: 'T-Shirt Summer Vibes',
+    // price: 119.99,
     quantityAvailable: 2,
     category: 'T-shirt',
     currentPrice: 89.99,
@@ -179,8 +179,8 @@ export const products = [
   },
   {
     id: '4',
-    name: 'T-Shirt Summer Vibes',
-    price: 119.99,
+    // name: 'T-Shirt Summer Vibes',
+    // price: 119.99,
     quantityAvailable: 2,
     category: 'T-shirt',
     currentPrice: 89.99,
@@ -238,8 +238,8 @@ export const products = [
   },
   {
     id: '5',
-    name: 'T-Shirt Summer Vibes',
-    price: 119.99,
+    // name: 'T-Shirt Summer Vibes',
+    // price: 119.99,
     quantityAvailable: 2,
     category: 'T-shirt',
     currentPrice: 89.99,
@@ -297,8 +297,8 @@ export const products = [
   },
   {
     id: '6',
-    name: 'T-Shirt Summer Vibes',
-    price: 119.99,
+    // name: 'T-Shirt Summer Vibes',
+    // price: 119.99,
     discount: 30,
     quantityAvailable: 2,
     category: 'T-shirt',

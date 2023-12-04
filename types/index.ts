@@ -31,14 +31,20 @@ export type ProductType = {
   reviews: ReviewType[];
 }
 
-export type ProductTypeList = {
+// export type ProductTypeList = {
+//   id: UUID;
+//   name: string;
+//   price: DECIMAL;
+//   // color: string;
+//   // images: string[];
+//   // discount?: string;
+//   // currentPrice?: number;
+// }
+
+export type ProductName = {
   id: string;
   name: string;
   price: string;
-  color: string;
-  images: string[];
-  discount?: string;
-  currentPrice?: number;
 }
 
 export type ProductStoreType = {
